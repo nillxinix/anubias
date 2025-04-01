@@ -1,4 +1,4 @@
-<h1 align="center">
+0<h1 align="center">
   <br>
   <a href="https://anubias.app/">
     <img src="public/icon.png" alt="Anubias" width="150">
